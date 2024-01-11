@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<items>
+
+<item>
+
+<additional_image_link>http://www.webshop.com/product1b.jpg, http://www.webshop.com/product1c.jpg</additional_image_link>
+
+<description>Description of the item here</description>
+
+<brand>Retour Jeans</brand>
+
+<ean>8719547238072</ean>
+
+<unique_id>008305-01-122</unique_id>
+
+<size>122</size>
+
+<color>black</color>
+
+<image_link>http://www.webshop.com/product1.jpg</image_link>
+
+<price>54.95</price>
+
+<shipping_country>NL</shipping_country>
+
+<shipping_price>3.95 EUR</shipping_price
+
+<link>http://example.channable.com/product1</link
+
+<product_type>girls/trousers</product_type>
+
+<stock>16</stock>
+
+<title>Retour Jeans girls trousers Angelina</title>
+
+</item>
+<item>
+
+<additional_image_link>http://www.webshop.com/product1b.jpg, http://www.webshop.com/product1c.jpg</additional_image_link>
+
+<description>Description of the item here</description>
+
+<brand>Retour Jeans</brand>
+
+<ean>8719547238073</ean>
+
+<unique_id>008305-01-123</unique_id>
+
+<size>122</size>
+
+<color>black</color>
+
+<image_link>http://www.webshop.com/product1.jpg</image_link>
+
+<price>54.95</price>
+
+<shipping_country>NL</shipping_country>
+
+<shipping_price>3.95 EUR</shipping_price
+
+<link>http://example.channable.com/product1</link
+
+<product_type>girls/trousers</product_type>
+
+<stock>16</stock>
+
+<title>Retour Jeans girls trousers Angelina</title>
+
+</item>
+
+</items>
